@@ -1,6 +1,6 @@
 {
   "name": "derby-services",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plugin for conveniently adding and grabbing services (as in service layer services) to Derby (Racer)",
   "main": "lib/index.js",
   "scripts": {
